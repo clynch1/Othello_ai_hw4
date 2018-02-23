@@ -1,0 +1,1 @@
+java -jar "lynch4.jar"
